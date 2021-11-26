@@ -1,5 +1,6 @@
-# Uusiaurinko
- Test For Launch
+# TokenMinter
+This is a one chain version of my tokenBuidler dApp.
+With Love by Moibe.
 
 This is the code to upload to the staging server. 
 
