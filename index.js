@@ -1,5 +1,5 @@
 // use this variable to set the timing of progress bar
-let timing = 5;
+//let timing = 5;
 const myInputOne = (e) => {
     document.getElementById('nameText').innerHTML = e.value;
     glass2.style.opacity = 1;
